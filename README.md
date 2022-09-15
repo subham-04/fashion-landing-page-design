@@ -4,9 +4,13 @@ We are in the midst of the festive season and many people will purchase items on
 
 So, now "Welcome to Fashion"
 
+<br>
+
 ## Video 
 
-Link:
+Link: https://subham-04.github.io/fashion-landing-page-design/
+
+<br>
 
 
 ## Screenshots
