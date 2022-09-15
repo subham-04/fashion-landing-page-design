@@ -4,6 +4,10 @@ We are in the midst of the festive season and many people will purchase items on
 
 So, now "Welcome to Fashion"
 
+## Video 
+
+Link:
+
 
 ## Screenshots
 
